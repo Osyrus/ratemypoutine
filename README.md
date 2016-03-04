@@ -1,0 +1,3 @@
+# ratemypoutine
+
+A website in which users can rate other users poutines, obviously...

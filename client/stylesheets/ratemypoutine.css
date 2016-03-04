@@ -1,0 +1,9 @@
+/* CSS declarations go here */
+
+.ui.grid.main {
+    margin-top: 0px;
+}
+
+.ui.menu {
+    border-radius: 0px !important;
+}

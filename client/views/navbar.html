@@ -1,0 +1,15 @@
+<template name="navbar">
+  <div class="ui top fixed menu">
+    <a class="header item" href="/">
+      <i class="home icon"></i>
+      Home
+    </a>
+
+    <div class="right menu">
+      <a class="item {{atInfo.tag}}" href="{{atInfo.path}}">
+        <i class="{{atInfo.icon}} icon"></i>
+        {{atInfo.text}}
+      </a>
+    </div>
+  </div>
+</template>
